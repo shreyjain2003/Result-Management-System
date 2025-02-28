@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==1.26.4
+faker==36.1.1
+pyspark==3.5.4
+streamlit==1.42.2
+plotly==6.0.0
+python-dotenv==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.0
+flask==3.0.0
+flask-sqlalchemy==3.1.1
+sqlalchemy==2.0.23
+pyarrow==14.0.1
