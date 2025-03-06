@@ -82,9 +82,8 @@ pip install -r requirements.txt
 
 ## 🚀 Installation & Setup
 
-1. Clone the repository:
+1. Repository:
 ```bash
-git clone https://github.com/ranjitla/student-result-management.git
 cd student-result-management
 ```
 
@@ -200,13 +199,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
-- [Your Name]
-- [Other Contributors]
+- Shreyansh jain
 
 ## 🙏 Acknowledgments
 - Built as part of the Data Engineering course project
-- Thanks to all contributors and testers
-- Special thanks to [Your Institution/Organization]
+- Special thanks to Gradskey
 
 ## 📞 Support
-For support, please create an issue in the repository or contact [your-email@example.com] 
+For support, please create an issue in the repository or contact shreyanshjain7983@gmail.com
